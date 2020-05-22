@@ -1,5 +1,5 @@
 # Ryan Mitchell's R Portfolio
-[Python Portfolio](python.md)   [R Portfolio](R.md)   [Resume](resume.md)
+[Home](index.md)    [Python Portfolio](python.md)   [R Portfolio](R.md)   [Resume](resume.md)
 
 Below is a snippet of code used to generate how it would look like to cover %20 of Queensland in nature reserves based on data relating to environmental factors
 
