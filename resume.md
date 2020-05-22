@@ -30,26 +30,27 @@ Listening to music                                         Dungeons and Dragons
 
 ## Course list (As of 14/03/2020)
 ### Bachelor of Science (Physical Geography):
-1014SCG Statistics - 4 
-1015SCG Quantitative Reasoning - 4 
-1023SCG Chemistry I - 5 
-1024SCG Chemistry II - 5 
-1041SCG Biological Systems - 4 
-1043SCG Intro to environmental sustainability - 5 
-1044SCG Earth Systems - 5 
-2107ENV Introduction to GIS - 6 
-2203ENV Environmental Chemistry and Monitoring - 4 
-2416ENV Environmental Anthropology - 4 
-3119MED Environmental Toxicology and Risk Assessment - 4 
-3418ENV Spatial modeling (advanced GIS) - 4 
+*1014SCG Statistics - 4 
+*1015SCG Quantitative Reasoning - 4 
+*1023SCG Chemistry I - 5 
+*1024SCG Chemistry II - 5 
+*1041SCG Biological Systems - 4 
+*1043SCG Intro to environmental sustainability - 5 
+*1044SCG Earth Systems - 5 
+*2107ENV Introduction to GIS - 6 
+*2203ENV Environmental Chemistry and Monitoring - 4 
+*2416ENV Environmental Anthropology - 4 
+*3119MED Environmental Toxicology and Risk Assessment - 4 
+*3418ENV Spatial modeling (advanced GIS) - 4 
 
 ### Bachelor of ICT (Networks and Security):
-1004ICT Information technology fundamentals - 4 
-1007ICT Computer systems and networks - 4 
-1802ICT Foundations of system development - 5 
-1803ICT Information system foundations - 5 
-1804ICT Data management - 5 
-1805ICT Human-computer interaction - 4 
-2806ICT IT Services Management - 5 
-2807ICT Programming Principles - 4 
-2808ICT Information and security management - 5
+
+*1004ICT Information technology fundamentals - 4 
+*1007ICT Computer systems and networks - 4 
+*1802ICT Foundations of system development - 5 
+*1803ICT Information system foundations - 5 
+*1804ICT Data management - 5 
+*1805ICT Human-computer interaction - 4 
+*2806ICT IT Services Management - 5 
+*2807ICT Programming Principles - 4 
+*2808ICT Information and security management - 5
