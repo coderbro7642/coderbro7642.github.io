@@ -3,7 +3,7 @@
 
 Below is a snippet of code used to generate how it would look like to cover %20 of Queensland in nature reserves based on data relating to environmental factors
 
-  '''R
+```R
   pack.to.install <-
   c(
     "rgdal",
@@ -175,4 +175,4 @@ write.csv(connectivity,"F:/3418ENV Spatial Modelling/Assignment/Assigment 1 for 
 pu_QLD.csv
 puvspr_QLD.csv
 spec_QLD.csv
-  '''
+```
