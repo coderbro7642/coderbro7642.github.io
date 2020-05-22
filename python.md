@@ -1,3 +1,5 @@
+The following block of code is a webcrawler to log in to a website and then search the website using a list of barcodes it's extracted from an excel file. 
+Note: Selenium was used as the original website this was constructed for used dynamic javascript data from an .aspx extension.
 ```python3
 from selenium import webdriver
 import xlrd
@@ -8,7 +10,7 @@ import pandas as pd
 usernameStr = 'putYourUsernameHere'
 passwordStr = 'putYourPasswordHere'
 browser = webdriver.Chrome()
-browser.get(('https://hts.symbionhealth.com/shop/'))
+browser.get(('urlofwebsitehere'))
 pointer = 0
 
 #opens workbook with barcodes and makes a list of them, fill in with stuff
