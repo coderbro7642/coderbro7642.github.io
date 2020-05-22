@@ -177,4 +177,5 @@ puvspr_QLD.csv
 spec_QLD.csv
 ```
 
-![Branching](.png)
+Below is the map of reserves that it generated
+![Map of reserves](.png)
