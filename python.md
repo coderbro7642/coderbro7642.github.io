@@ -1,3 +1,6 @@
+# Ryan Mitchell
+[Python Portfolio](python.md)   [R Portfolio](R.md)   [Resume](resume.md)
+
 The following block of code is a webcrawler to log in to a website and then search the website using a list of barcodes it's extracted from an excel file. 
 Note: Selenium was used as the original website this was constructed for used dynamic javascript data from an .aspx extension.
 ```python3
