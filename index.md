@@ -1,5 +1,5 @@
 # Ryan Mitchell
-[Python Portfolio](python.md)   [R Portfolio](R.md)
+[Python Portfolio](python.md)   [R Portfolio](R.md)   [Resume](resume.md)
 
 I'm 20 years old and I specialize in automating data entry using python 3, geospatial anlalytics through R studio and ARCGIS.
 
