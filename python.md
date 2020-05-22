@@ -1,7 +1,7 @@
-# Ryan Mitchell
-[Home](index.md)    [Python Portfolio](python.md)   [R Portfolio](R.md)   [Resume](resume.md)
+# Ryan Mitchell's Python Portfolio
+[Home](index.md)    [Python Portfolio](python.md)   [R and spatial modelling Portfolio](R.md)   [Resume](resume.md)
 
-The following block of code is a webcrawler to log in to a website and then search the website using a list of barcodes it's extracted from an excel file. 
+The following block of code is a webcrawler to log in to a website and then search the website using a list of barcodes it's extracted from an excel file, this was built using pycharm code editor/runner and chrome webdriver. 
 Note: Selenium was used as the original website this was constructed for used dynamic javascript data from an .aspx extension.
 ```python3
 from selenium import webdriver
