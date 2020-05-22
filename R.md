@@ -178,4 +178,4 @@ spec_QLD.csv
 ```
 
 Below is the map of reserves that it generated
-![Map of reserves](.png)
+![Map of reserves](Map of reserves.jpg)
