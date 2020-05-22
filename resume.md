@@ -1,4 +1,6 @@
 # Ryan Mitchell
+[Python Portfolio](python.md)   [R Portfolio](R.md)   [Resume](resume.md)
+
 * Email: Ryanmitchell508@gmail.com
 * Mobile: 04 2358 8191
 * Address: U 2/18 Bowley Street, Pacific Pines 4211
