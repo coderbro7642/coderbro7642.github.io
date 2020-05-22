@@ -1,5 +1,5 @@
 # Ryan Mitchell
-[a relative link](python.md)
+[Python Portfolio](python.md)   [R Portfolio](R.md)
 
 I'm 20 years old and I specialize in automating data entry using python 3, geospatial anlalytics through R studio and ARCGIS.
 
