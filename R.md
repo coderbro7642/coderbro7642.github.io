@@ -179,3 +179,6 @@ spec_QLD.csv
 
 Below is the map of reserves that it generated
 ![Map of reserves](Map_of_reserves.png)
+
+Below is a map generated using mostly ARCGIS and various mapping methods (spline and natural neighbour) to determine the probability of Koala future Koala Presence based on prior Koala Activity
+![interpolationOfKoalas](interpolationOfKoalas.png)
