@@ -1,32 +1,41 @@
 # Ryan Mitchell
-Email: Ryanmitchell508@gmail.com
-Mobile: 04 2358 8191
-Address: U 2/18 Bowley Street, Pacific Pines 4211
-Personal Summary: I pride myself on being a hardworking, enthusiastic and diligent individual. I approach situations with a sense of seeking remarkable resolutions and ensuring that all parties involved reach a harmonious outcome. I typically seek to work as both an autonomous individual and as part of a team. I am currently studying full time at Griffith University, so part time work is ideal, although would be open to considering full time positions. 
+* Email: Ryanmitchell508@gmail.com
+* Mobile: 04 2358 8191
+* Address: U 2/18 Bowley Street, Pacific Pines 4211
+* Personal Summary: I pride myself on being a hardworking, enthusiastic and diligent individual. I approach situations with a sense of seeking remarkable resolutions and ensuring that all parties involved reach a harmonious outcome. I typically seek to work as both an autonomous individual and as part of a team. I am currently studying full time at Griffith University, so part time work is ideal, although would be open to considering full time positions. 
 
 ## Education & Qualifications
-Studying a Bachelor of Science and ICT at Griffith University, Gold Coast (current, 3rd year), majoring in Geography and Networks & Security
-High school: Aquinas College (8-12)
-Certificate II in Hospitality at TAFE
-Certificate II in Kitchen operations at TAFE (half a year)
-2 weeks of work experience at Royal Pines Resort
-RSA certificate
+* Studying a Bachelor of Science and ICT at Griffith University, Gold Coast (current, 3rd year), majoring in Geography and Networks & Security
+* High school: Aquinas College (8-12)
+* Certificate II in Hospitality at TAFE
+* Certificate II in Kitchen operations at TAFE (half a year)
+* 2 weeks of work experience at Royal Pines Resort
+* RSA certificate
 
 ## Prior work experience
-Barista work experience in high school (6 months)
-Woodfired pizza at the night quarter (2 years)
-Napoli Zero81 Pizza and bar (2 months)
+* Barista work experience in high school (6 months)
+* Woodfired pizza at the night quarter (2 years)
+* Napoli Zero81 Pizza and bar (2 months)
+* Delivery and stock driver at Salmat (6 months)
+* Casual at Chempro Online Warehouse (2 months-ongoing)
+
 
 ## Skills (proficient in)
-Microsoft Excel, ARCGIS, ARC Map, QGIS, R studio, coding in SQL, Python, HTML, CSS & PHP.
-Woodfired cooking                            Trained Barista
-Money handling                               Mentoring
-Toxicological risk assessment			           Environmental Chemistry Monitoring
+* Microsoft Excel, ARCGIS, ARC Map, QGIS, R studio, coding in SQL, Python, HTML, CSS & PHP.
+* Woodfired cooking                            
+* Trained Barista
+* Money handling                               
+* Mentoring
+* Toxicological risk assessment			           
+* Environmental Chemistry Monitoring
 
 ## Hobbies
-Paintballing                                               Going to the theatre
-Baking & cooking                                           Handball
-Listening to music                                         Dungeons and Dragons
+* Paintballing
+* Going to the theatre
+* Baking & cooking
+* Handball
+* Listening to music
+* Dungeons and Dragons
 
 ## Course list (As of 14/03/2020)
 ### Bachelor of Science (Physical Geography):
@@ -44,7 +53,6 @@ Listening to music                                         Dungeons and Dragons
 * 3418ENV Spatial modeling (advanced GIS) - 4 
 
 ### Bachelor of ICT (Networks and Security):
-
 * 1004ICT Information technology fundamentals - 4 
 * 1007ICT Computer systems and networks - 4 
 * 1802ICT Foundations of system development - 5 
