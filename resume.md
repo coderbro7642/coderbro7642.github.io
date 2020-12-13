@@ -39,6 +39,8 @@
 * Handball
 * Listening to music
 * Dungeons and Dragons
+* Dodgebow
+* Axe throwing
 
 ## Course list (As of 14/03/2020)
 ### Bachelor of Science (Physical Geography):
