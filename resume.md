@@ -4,7 +4,7 @@
 * Email: Ryanmitchell508@gmail.com
 * Mobile: 04 2358 8191
 * Address: U 2/18 Bowley Street, Pacific Pines 4211
-* Personal Summary: I pride myself on being a hardworking, enthusiastic and diligent individual. I approach situations with a sense of seeking remarkable resolutions and ensuring that all parties involved reach a harmonious outcome. I typically seek to work as both an autonomous individual and as part of a team. I am currently studying full time at Griffith University, so part time work is ideal, although would be open to considering full time positions. 
+* Personal Summary: I pride myself on being a hardworking, enthusiastic and diligent individual. I approach situations with a sense of seeking remarkable resolutions and ensuring that all parties involved reach a harmonious outcome. I typically seek to work as both an autonomous individual and as part of a team. I am currently studying part time at Griffith University, so any work situation would be ideal, whether it be part time, full time or casual. I am also currently working as a dispatch officer at Chempro Online 
 
 ## Education & Qualifications
 * Studying a Bachelor of Science and ICT at Griffith University, Gold Coast (current, 3rd year), majoring in Geography and Networks & Security
